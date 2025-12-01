@@ -1,22 +1,18 @@
-Introduction.
+Billy a toujours été un individu particulier.
 
-Billy a grandi dans une famille très particulière :
-une famille où tout le monde portait une balaclava noire.
-C’était une tradition.
-On naissait avec, on vivait avec, on posait rarement des questions.
-Même le jour de sa naissance, sa mère portait sa balaclava,
+Tout petit, il reçu sa première balaclava. Un moment important dans cette famille où la balaclava était une manière de se démarquer des autres.
+On grandissait avec, on vivait avec, on posait rarement des questions.
+Même le jour de sa naissance, sa mère portait sa balaclava lors de l'accouchement,
 et son père aussi, lorsqu’il est entré dans la salle pour le voir la première fois.
 
-Pour Billy, c’était simplement normal.
+Pour Billy, c’était simplement la vie normale.
 
-Le traumatisme.
-
-Quand Billy avait environ six ans, il a vécu un événement qui l’a marqué plus qu’il ne devrait :
+Quand Billy eut environ six ans, il vécu un événement qui le marqua plus qu’il n'aurait du :
 un matin, il a voulu ouvrir une boîte de biscuits en métal.
 Elle était belle, brillante… et complètement coincée.
 
 Il a tiré, poussé, essayé de la tourner. Rien.
-Puis la boîte lui a échappé des mains, a roulé dans la cuisine,
+Puis la boîte lui échappa des mains, roula dans la cuisine,
 et a fini par disparaître sous un meuble trop lourd pour être déplacé.
 
 Billy s’est assis devant le meuble, frustré.
@@ -25,20 +21,28 @@ C’était comme si quelque chose de précieux lui avait été confisqué.
 Et surtout : comme si les objets fermés avaient décidé de lui résister.
 
 Ce jour-là, il développa une étrange obsession :
-comprendre les choses verrouillées.
+comprendre les choses verrouillées pour pouvoir les ouvrir.
 
-La découverte des failles TSA.
 
 Des années plus tard, ado, Billy tomba sur un article en ligne.
-Il parlait d’une faille de sécurité dans les cadenas TSA,
-ceux utilisés sur des millions de valises dans les aéroports du monde.
+Il parlait de la volontée d'instaurer un système de passes universels dans les valises,
+un système qui puisse permettre aux douaniers de les ouvrir sans les abimer afin d'en vérifier le contenu, puis de les refermer lorsque le doute était levé.
+Un système utilisé sur des millions de valises dans les aéroports du monde.
 
-Le système fonctionnait avec une backdoor :
-des clés maîtresses permettant aux douaniers d’ouvrir n’importe quel bagage pour des raisons de sécurité.
-Théoriquement, seules les autorités y avaient accès.
+Ce fut pour Billy une révélation. Une clef unique pour tout ouvrir. Billy vu une opportunnité d'étendre sa soif d'ouverture.
+
+Pour que le système marche, ces clés maîtresses ne devaient être accessibles qu'aux seules autorités.
+
+Billy se souviendra toute sa vie de cette date du 24 novembre 2014. L'emprunt d'un journal à son père, le Washington Post, et la lecture de cet article sur la vie secrète des bagages. Et surtout cette revelation, cette photo anodyne de clefs qui fournissait tous les détails pour les reproduire.
+
+Quelques mois plus tards, des fichiers 3D fonctionnels se retrouvèrent sur Internet. Librement imprimables par tous.
 
 Mais les schémas des clés avaient fuité.
 Ce qui rendait le système vulnérable :
+
+A COMPLETER
+
+
 une vulnérabilité mondiale, silencieuse, mais bien réelle.
 
 Billy relut l’article plusieurs fois.
